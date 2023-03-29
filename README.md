@@ -1,7 +1,29 @@
-# Vue 3 + Vite
+# Vite Template
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Vite + Vue2 + Tailwind
 
-## Recommended IDE Setup
+## Additional Tech
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+This template includes some tech from CDN:
+
+- Nunito Font
+
+## Installation
+
+```sh
+degit juramirezp/template-vite-vue-tailwind my-proyect
+cd my-proyect
+npm i
+```
+
+## Development
+
+```sh
+npm run dev
+```
+
+## Build
+
+```sh
+npm run build
+```
