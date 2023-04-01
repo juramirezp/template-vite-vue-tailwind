@@ -1,12 +1,22 @@
 # Vite Template
 
-## Vite + Vue2 + Tailwind
+## Vue2 + Tailwind
 
 ## Additional Tech
 
 This template includes some tech from CDN:
 
 - Nunito Font
+- Axios
+- Bch-icons
+
+## VSCode Extensions
+
+- Headwind
+- Tailwind CSS IntelliSense
+- Tailwind Documentation
+- Vetur
+- Vue Language Features (Volar)
 
 ## Installation
 
