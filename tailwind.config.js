@@ -199,6 +199,9 @@ export default {
 				"0%": { transform: "translate3d(-100%, 0, 0)", opacity: "0" },
 				to: { transform: "translateZ(0)", opacity: "1" },
 			},
+			pulseSkeleton: {
+				"50%": { opacity: ".5" },
+			},
 		},
 		animation: {
 			wiggle: "wiggle 1000ms ease-in-out infinite",
@@ -216,6 +219,7 @@ export default {
 			fadeInRight: "fadeInRight 1000ms ease-in-out infinite",
 			fadeInDown: "fadeInDown 1000ms ease-in-out infinite",
 			fadeInLeft: "fadeInLeft 1000ms ease-in-out infinite",
+			skeleton: "pulseSkeleton 2s cubic-bezier(.4,0,.6,1) infinite;",
 		},
 		transitionDuration: {
 			DEFAULT: "1000ms",
