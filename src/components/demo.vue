@@ -64,7 +64,10 @@ export default {
 
 			<div class="tw-flex tw-w-full tw-gap-5 tw-mt-[100px]">
 				<div class="paquetes tw-w-1/2 tw-border-2 tw-border-gray-background tw-rounded-2 tw-py-5 tw-px-6">
-					<h3 class="tw-font-600 tw-text-gray-dark tw-mb-4 tw-text-2">Paquetes incluidos</h3>
+					<h3 class="tw-font-600 tw-text-gray-dark tw-mb-4 tw-text-2">
+						Paquetes incluidos
+						<span class="icos-caja-1"></span>
+					</h3>
 					<ul class="tw-border-l-1 tw-border-gray-background tw-pl-4 tw-text-2 tw-font-300">
 						<li>Vite</li>
 						<li>Vuejs 3</li>
@@ -74,7 +77,10 @@ export default {
 					</ul>
 				</div>
 				<div class="extensiones tw-w-1/2 tw-border-2 tw-border-gray-background tw-rounded-2 tw-py-5 tw-px-6">
-					<h3 class="tw-font-600 tw-text-gray-dark tw-mb-4 tw-text-2">Extensiones recomendadas VSCode</h3>
+					<h3 class="tw-font-600 tw-text-gray-dark tw-mb-4 tw-text-2">
+						Extensiones recomendadas VSCode
+						<span class="icos-Cog"></span>
+					</h3>
 					<ul class="tw-border-l-1 tw-border-gray-background tw-pl-4 tw-text-2 tw-font-300">
 						<li>Headwind</li>
 						<li>Tailwind CSS IntelliSense</li>
