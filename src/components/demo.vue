@@ -57,10 +57,10 @@ export default {
 			<pre
 				class="comand tw-border-2 tw-border-gray-background tw-rounded-2 tw-py-5 tw-px-6 tw-flex tw-flex-col tw-text-2 tw-gap-1 tw-mt-7"
 			>
-    <p>degit juramirezp/template-vite-vue-tailwind my-proyect</p>
-    <p>cd my-proyect</p>
-    <p>npm i</p>
-  </pre>
+				<p>degit juramirezp/template-vite-vue-tailwind my-proyect</p>
+				<p>cd my-proyect</p>
+				<p>npm i</p>
+			</pre>
 
 			<div class="tw-flex tw-w-full tw-gap-5 tw-mt-[100px]">
 				<div class="paquetes tw-w-1/2 tw-border-2 tw-border-gray-background tw-rounded-2 tw-py-5 tw-px-6">
